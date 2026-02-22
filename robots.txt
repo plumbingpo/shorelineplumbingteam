@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shorelineplumbingteam.com/sitemap.xml
